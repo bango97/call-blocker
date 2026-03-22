@@ -1,0 +1,23 @@
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+*.iml
+
+# iOS
+ios/*.xcodeproj/xcuserdata/
+ios/*.xcworkspace/xcuserdata/
+ios/build/
+ios/DerivedData/
+ios/Pods/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Claude
+.claude/
